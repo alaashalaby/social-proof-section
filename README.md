@@ -11,4 +11,4 @@
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: (https://alaashalaby.github.io/social-proof-section
+- [Live Site](https://alaashalaby.github.io/social-proof-section/)
